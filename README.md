@@ -1101,3 +1101,6 @@ Brute Force Attack হচ্ছে এমন একটি পদ্ধতি, �
 | Example    | OTP ছাড়াই reset, দাম পরিবর্তন, কুপন reuse |
 | প্রতিকার   | সার্ভার-ভিত্তিক চেক, রেট লিমিটিং, লজ      |
 
+OWASP ->Authentication Testing 
+following : https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/04-Authentication_Testing/README
+
